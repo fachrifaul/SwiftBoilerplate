@@ -16,7 +16,10 @@ http://nvie.com/posts/a-successful-git-branching-model/
 
 # Features
 * Framework dependency manager using Cocoapods
-* HTTP framework using Moya
+* HTTP framework using Alamofire
+* Network abstraction layer using Moya
+* Model objects (classes and structs) to and from JSON using ObjectMapper
+* Image Cache framework using Kingfisher
 
 # POJO Generator
 https://github.com/insanoid/SwiftyJSONAccelerator
